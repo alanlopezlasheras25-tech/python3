@@ -5,5 +5,6 @@
 peso= input("Dame tu peso en Kg: ")
 altura= input("Dame tu estatura en metros: ")
 imc= float(peso) / (float(altura) * float(altura)) 
-print(f"tu imc es de {imc}")
+resultado= round(imc, 2)
+print(f"tu imc es de {resultado}")
 
