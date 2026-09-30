@@ -15,3 +15,4 @@ print(f"El precio habitual de una barra de pan es: {precio}€")
 print(f"El descuento que se le hace por no ser fresca es: {descuento}%")
 
 print(f"El coste final total es: {round(coste, 2)}€")
+    
