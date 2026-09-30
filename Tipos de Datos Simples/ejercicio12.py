@@ -7,8 +7,8 @@
 nofrescas = int(input("Introduce el número de barras vendidas que no son del día: "))
 
 precio = 3.49
-descuento = 0.60 * precio
-coste = (nofrescas * precio ) * 0.60
+descuento = 0.40 * precio
+coste = (nofrescas * precio ) * 0.40
 
 print(f"El precio habitual de una barra de pan es: {precio}€")
 
