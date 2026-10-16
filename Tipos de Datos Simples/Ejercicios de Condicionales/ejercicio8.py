@@ -13,7 +13,7 @@ if primer == 0.0 :
  print("Inaceptable")
 elif primer == 0.4 :
  print("Aceptable")
-elif primer == 0.6 :
+elif primer >= 0.6 :
  print("Meritorio")
 
 dinero = primer * 2400
