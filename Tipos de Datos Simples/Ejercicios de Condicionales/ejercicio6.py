@@ -11,3 +11,4 @@ if (sexo.lower() == "f" and nombre.lower() < "m" ):
 
 elif (sexo.lower() == "m" and nombre.lower() > "n" ):
     print("Eres del grupo B")
+    
