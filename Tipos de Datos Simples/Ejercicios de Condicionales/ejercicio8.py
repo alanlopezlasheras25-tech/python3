@@ -6,7 +6,7 @@
 #los niveles correspondientes a cada puntuación. La cantidad de dinero conseguida
 #en cada nivel es de 2.400€ multiplicada por la puntuación del nivel.
 #Escribir un programa que lea la puntuación del usuario e indique su nivel de
-#rendimiento, así como la cantidad de dinero que recibirá el usuario.
+#rendimiento, así como la cantidad de dinero que recibirá el usuario.  
 
 primer = float(input("Introduce tu puntuación: "))
 if primer == 0.0 :
